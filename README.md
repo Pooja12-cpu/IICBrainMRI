@@ -1,0 +1,2 @@
+# IICBrainMRI
+This project uses an autoencoder-enhanced GAN model to correct intensity inhomogeneity artifacts in Brain MRI
